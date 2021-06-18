@@ -11,3 +11,13 @@ Python
 Data Structure
 
 Algorithms
+
+Linux
+
+Angular
+
+Docker
+
+OCP
+
+
