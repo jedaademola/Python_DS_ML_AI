@@ -12,6 +12,8 @@ Data Structure
 
 Algorithms
 
+AWS
+
 Linux
 
 Angular
