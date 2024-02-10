@@ -15,7 +15,7 @@ def my_function_with_args(username, greeting):
 my_function()
 
 # prints - "Hello, John Doe, From My Function!, I wish you a great year!"
-my_function_with_args("John Doe", "a great year!")
+my_function_with_args("Fareed Arogundade", "a great year!")
 
 # after this line x will hold the value 3!
 x = sum_two_numbers(1, 2)
